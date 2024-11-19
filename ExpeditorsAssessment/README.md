@@ -1,0 +1,9 @@
+This project has been my interpretation of how to display this problem. My hopes have been to show you my current knowledge of the Java programming language as well as how OOP plays a role in structuring projects. I want to note that determining how to split up objects and functions were created from scratch. 
+
+Given that this is not a monitored exam, I also want to acknowledge that I had to do some research into parsing the input data in a proper manner. Before choosing this solution, I had to explore different Java libraries for potential ways to parse each line so as to handle punctuation in a proper way. This resulted in the use of Regex as well as substring parsing.
+
+I also want to acknowledge that I did some investigation into potential ways to sort through a list of objects across multiple attributes. I have not worked with the Collections and Comparator Java libraries as much, so I had to read into their purpose in being able to perform these sorts of queries for my project. 
+
+I want to note that something I noticed when completing this project was the fact that it felt as if I was performing a simple database query using an OOP language. Using a declarative language such as SQL and loading this input data into a DBMS would simplify this problem more as performing multi-faceted sorting and searching is simpler with such a format.
+
+I hope my transparency and ideas have conveyed a strong sense of my current technical skills, and I want to emphasize that my work on this project can show just how dedicated I am to securing an opportunity with Expeditors. I had such a wonderful first interview with Chris and Ariane, and I hope this can show that I am driven to do whatever I can to join your wonderful team.
